@@ -121,7 +121,7 @@ Puppet, bash").
 
 #resume-entry(
   title: "University of Piraeus",
-  date: "September 2011 - Present",
+  date: "September 2011 - September 2026",
   description: "B.S. in Computer Science",
 )
 
